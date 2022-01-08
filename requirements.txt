@@ -8,4 +8,4 @@ py-tgcalls==0.8.1rc1
 youtube-search-python
 git+https://github.com/LEGEND-OS/pyrogram
 git+https://github.com/LEGEND-OS/downloader
-https://github.com/CandyMusic/yt-dl
+git+https://github.com/CandyMusic/yt-dl@master
