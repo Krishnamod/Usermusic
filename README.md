@@ -8,6 +8,16 @@
 
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGENDBOYOP/Music-VC)
 
+
+### Deploy To Railway
+
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/CandyMusic/UserbotMusic&envs=API_ID,API_HASH,LANGUAGE,CUSTOM_QUALITY,PREFIX,SUDOERS,PYROGRAM_SESSION)
+
+### Deploy To Railway
+
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/khushbuxabhi/SuperMusic&envs=API_ID,API_HASH,BOT_TOKEN,STRING_SESSION)
+
+
 ------------
 
 - If Error Like Salesforce Then Fork This Repo
