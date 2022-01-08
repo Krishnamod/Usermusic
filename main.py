@@ -51,8 +51,9 @@ from core.decorators import register, language, handle_error, only_admins
 
 REPO = """
  **Music Player**
-- Repo: [GitHub](https://github.com/LEGEND-OS/MUSIC-VC)
-- Owner: @The_LegendBoy
+- Repo: [GitHub](https://t.me/AlishaSupport
+)
+- Owner: @Itz_VeNom_xD 
 """
 
 
@@ -127,7 +128,7 @@ async def play_stream(_, message: Message, lang):
 
 
 @app.on_message(
-    filters.command(["radio", "stream"], config.PREFIXES)
+    filters.command(["radio", "vplay"], config.PREFIXES)
     & filters.group
     & ~filters.edited
 )
