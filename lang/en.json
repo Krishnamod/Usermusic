@@ -1,6 +1,6 @@
 {
-    "downloading": "🔄 | **Processing...**",
-    "errorMessage": "❌ | **An Error Occurred!**",
+    "downloading": "🔄 | **.",
+    "errorMessage": "❌ | **E",
     "invalidFile": "❌ | **Invalid Command/File!**",
     "langSet": "🗣 | **Language Set To `%s`!**",
     "loopOff": "🔂 | **Music Loop Disabled!**",
