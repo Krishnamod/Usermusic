@@ -9,8 +9,5 @@
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CandyMusic/UserbotMusic)
 
 
-### Deploy To Railway
-
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/CandyMusic/UserbotMusic&envs=API_ID,API_HASH,LANGUAGE,CUSTOM_QUALITY,PREFIX,SUDOERS,PYROGRAM_SESSION)
 
 
