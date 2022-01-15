@@ -51,9 +51,9 @@ from core.decorators import register, language, handle_error, only_admins
 
 REPO = """
  **Music Player**
-- Repo: [GitHub](https://t.me/AlishaSupport
+- Repo: [GitHub](https://t.me/VAMPIRE_EMPIRE_OFFICIAL) sᴏʀʀʏ ʀᴇᴘᴏ ᴘʀɪᴠᴀᴛᴇ ʜᴀɪ😜
 )
-- Owner: @Itz_VeNom_xD 
+- Owner: [ᴏᴡɴᴇʀ](https://t.me/Caden_OP
 """
 
 
