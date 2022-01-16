@@ -8,10 +8,10 @@
 
 ## U CAN USE THIS BUTTON WITHOUT FORK IF ERROR " Like Salesforce Violate" Then READ DOWN ONE MESSAGE 
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Krishnamod/UserbotMusic)
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Krishnamod/UserMusic)
 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Krishnamod/UserbotMusic&envs=API_HASH%2CAPI_ID%2CCUSTOM_QUALITY%2CLANGUAGE%2CPREFIX%2CPYROGRAM_SESSION&SUDOERSDefault=60&referralCode=WyKIfS
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Krishnamod/UserMusic&envs=API_HASH%2CAPI_ID%2CCUSTOM_QUALITY%2CLANGUAGE%2CPREFIX%2CPYROGRAM_SESSION&SUDOERSDefault=60&referralCode=WyKIfS
 ) 
 
 
