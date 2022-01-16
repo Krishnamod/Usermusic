@@ -1,5 +1,7 @@
 ## This Is Telegram Music UserBot To Play Music Without Being Admin
 
+<p align="center"><a href="https://t.me/Vampire_Empire_official"><img src="https://telegra.ph/file/73160485c4b5e9a9a8aab.jpg" width="300"></a></p>
+
 ## A FASTEST AND SMOOTHEST BASED ON TG CALLS AND PYROGRAM STRING.
 
 ## 🚀 <a name="deploy"></a>Deploy
